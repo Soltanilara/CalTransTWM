@@ -1,0 +1,12 @@
+[submodule "MessageWarning"]
+	path = MessageWarning
+	url = https://github.com/Soltanilara/MessageWarning
+[submodule "TWM-Dataset"]
+	path = TWM-Dataset
+	url = https://github.com/Soltanilara/TWM-Dataset
+[submodule "Targeted-Warning-Message"]
+	path = Targeted-Warning-Message
+	url = https://github.com/Soltanilara/Targeted-Warning-Message
+[submodule "LARA-server-monitor"]
+	path = LARA-server-monitor
+	url = https://github.com/Soltanilara/LARA-server-monitor
