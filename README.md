@@ -2,7 +2,7 @@
 
 This repository integrates a suite of tools designed and developed to support the CalTrans TWM (Targeted Warning Message) project, marking a pivotal advancement in traffic management and safety.
 
-These tools are meticulously engineered to synergize, processing and analyzing data from VIDAR cameras, communicating critical warnings through message boards, and ensuring the robustness of server networks. Their integration is key to enhancing real-time response capabilities and improving the safety and efficiency of transportation systems.
+These tools are meticulously engineered to synergize, processing and analyzing data from cameras, generating and communicating critical warnings through message boards, and ensuring the robustness of server networks. Their integration is key to enhancing real-time response capabilities and improving the safety and efficiency of transportation systems.
 
 ## Components
 
